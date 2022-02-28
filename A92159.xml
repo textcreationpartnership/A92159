@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Dennington Castle or a true copy of Major William Rives his letter, in vindication of himselfe and others. Wherein is related the condition of the leaguer before it, and the manner of the late sallie from the castle, with what losse was on both sides. Licensed and printed according to order.</title>
+            <author>Ryves, William, Major.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92159</idno>
+            <idno type="STC">Wing R2453</idno>
+            <idno type="STC">Thomason E330_13</idno>
+            <idno type="STC">ESTC R200719</idno>
+            <idno type="EEBO-CITATION">99861385</idno>
+            <idno type="PROQUEST">99861385</idno>
+            <idno type="VID">113518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113518)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E330[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Dennington Castle or a true copy of Major William Rives his letter, in vindication of himselfe and others. Wherein is related the condition of the leaguer before it, and the manner of the late sallie from the castle, with what losse was on both sides. Licensed and printed according to order.</title>
+                  <author>Ryves, William, Major.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Twyford, at the signe of the three Daggers in Fleetstreet, neere the Temple.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Aprill the first 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on page 5: From the leaguer before Dennington the 26. of March, 1646. William Ryves.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Dennington (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113518:1" rendition="simple:additions"/>
+            <p>NEWES FROM DENNINGTON CASTLE OR A true Copy of Major <hi>William Rives</hi> his Letter, in VINDICATION of himſelfe and others.</p>
+            <p>Wherein is related the Condition of the Leaguer before it, and the man<g ref="char:EOLhyphen"/>ner of the late Sallie from the Caſtle, With what loſſe was on Both ſides.</p>
+            <p>Licenſed and Printed according to Order.</p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed for <hi>Henry Twyford,</hi> at the ſigne of the three Daggers in Fleetſtreet, neere the Temple. <hi>Aprill the firſt</hi> 1646.</p>
+            <pb facs="tcp:113518:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:113518:2"/>
+            <head>Newes from <hi>Dennington</hi> Caſtle, or a Copy of Major <hi>Rives</hi> his Letter, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was my fortune yeſterday to bee very much ingaged, but it pleaſed God to give me deliverance. On Tueſ<g ref="char:EOLhyphen"/>day laſt wee drew forth of this Towne, and faced the Caſtle on the Hill next <hi>Shaw,</hi> where we ſent them a Summons, which was not totally re<g ref="char:EOLhyphen"/>fuſed, but they deſired three dayes time to ſend to his Majeſty. This was taken as dila<g ref="char:EOLhyphen"/>tory, and that night to begin the ſiege, I had orders with three Companies of mine, which were my owne, Captaine <hi>Doves</hi> and
+<pb n="2" facs="tcp:113518:3"/>
+Captaine <hi>Knowles,</hi> and with Major <hi>Bla<g ref="char:EOLhyphen"/>graves</hi> foure Companies to begin the works, and to raiſe a redoubt on the ſide of the May-pole hill, which was performed that night without loſſe of one man. The next morning we began to heighten our Worke, but about ſeven of the clock the Enemy ob<g ref="char:EOLhyphen"/>ſerving our Horſe-guard drawne off, fell out on us moſt deſperately with all their Horſe, and neere all their Foote, and beat in our by-guard, which was to diſcover cleere to the Caſtle. Our guard was ſcarcely in to give us all arme, but their Horſe were in with them, and ere we could have any notice fi<g ref="char:EOLhyphen"/>red their Piſtolls on our men in the pit where they were, which I had ſtickadoed round, to prevent the falling in of their Horſe. At the ſame inſtant their Foot fell on on the other ſide o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, and beat in our Pyoniers, who re<g ref="char:EOLhyphen"/>treating in ſome diſorder to their Armes, cauſed ſome diſtraction amongſt our men. But of my owne Company of Gray-coates being next hand, I rallyed ſome ſuddenly, thinking to have manned our imperfect re<g ref="char:EOLhyphen"/>doubt, but ere I could doe it, their Horſe
+<pb n="3" facs="tcp:113518:3"/>
+were in it; out of which I drawing my ſelfe ſome Muskettiers to the corner of it, beate them out, and killed one of their Horſes. Aſſoone as my Enſigne ſaw that, hee fell on the man with his ſword, and either killed or wounded him; But their Horſe and Foot comming on, he was forced to retreat to his Colours, And the Enemies Foote poſſeſſing the trench of our Redoubt next the Caſtle under ſhelter of our Worke, fired on us in the pitt, where their Horſe could not breake in. Theſe did I by about twenty Musket<g ref="char:EOLhyphen"/>teires of my owne Company beat back, but they being well ſeconded, came on againe, and fell in from the hill ſide of the pitt, whiles their Horſe fired on the other ſide which was open. This put our men in ſuch a maze, being ſo ſuddenly, that they in the reere runne away in confuſion, which occaſioned my men be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng diſerted to run al<g ref="char:EOLhyphen"/>ſo. My owne Company which were formerly of the Kings party fought very wel, knocking it out at Musket ſtocke, till they broke many of their Muskets. And one of my Corporals beat a Trooper from his Horſe
+<pb n="4" facs="tcp:113518:4"/>
+With his Musket, and tooke his Sword, but the man was reſcued ere he could kill him; we got two Carbines, and ſome Piſtolls of ſuch as were killed, or wounded by us. And ſince I underſtand by ſome of my woun<g ref="char:EOLhyphen"/>ded Souldiers priſoners (came off ſince) wee killed and wounded as many of theirs, as they of ours, only the loſſe of our Colours. Which might well have beene ſaved, had there beene any Horſe-guard, or that Major <hi>Blagraves</hi> men (though I cannot impeach him in his perſon) had ſeconded me as they ought, but run firſt. At the croſſe Lane neere <hi>Dennington</hi> towne I forced ſome men to ſtand and fire, which forced<g ref="char:punc">▪</g> the Enemie to retreat in haft. And aſſoone as my men got more Ammunition, having ſpent their owne on ſer<g ref="char:EOLhyphen"/>vice, I advanced againe to my poſt, and al<g ref="char:EOLhyphen"/>moſt finiſhed the Redoubt ere night. This night Collonel <hi>Martin</hi> finiſhed it, and drew a line from <hi>Dennington</hi> Lanes to ſhelter our approach, and this night or to morrow wee plant our Cannon and great mortar. And although we have a deſperate Enemie, who the firſt night ſhot, and one fally fought like
+<pb n="5" facs="tcp:113518:4"/>
+divels, yet I hope we ſhall be able ſuddenly to give a good account of the place. And had all done like the gray-coates (however ſome ſay they run away to the Caſtle) they never durſt attempt us. And truly my Enſigne with them fought gallantly; And of ſix on<g ref="char:EOLhyphen"/>ly of them taken, there are foure wounded, and yet priſoners in expectation of exchange. Ere long I preſume you will heare that wee ſhall repaire our honour, which is greater then our loſſe. I am</p>
+            <closer>
+               <dateline>From the Leaguer before <hi>Dennington</hi> 
+                  <date>the 26. of March, 1646.</date>
+               </dateline>
+               <signed>Your humble ſervant, WILLIAM RYVES.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
